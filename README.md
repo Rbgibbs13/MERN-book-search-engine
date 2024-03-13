@@ -8,7 +8,7 @@ MERN stack book engine search
 This app is a search engine for finding books. You can then store these books to a user's account along with all the book data.  
   
 Some snippets of code were taken from my previous work, such as the template for this ReadMe.  
-A lot of the boilerplate code and of course the cloned code came from previous lessons, work, notes, Kyle and Drew, and various other documentation sites.
+A lot of the boilerplate code and of course the cloned were given code, some came from previous lessons, work, and notes, some from Kyle and Drew, and some from various other documentation sites.
 
 ### Table of Contents
 * [Installation](#-Installation)

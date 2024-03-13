@@ -12,15 +12,8 @@ import {
 } from 'react-bootstrap';
 
 import Auth from '../utils/auth';
-// import { saveBook, searchGoogleBooks } from '../utils/API';
+import { saveBook, searchGoogleBooks } from '../utils/API';
 import { saveBookIds, getSavedBookIds } from '../utils/localStorage';
-
-const SAVE_BOOK = gql`
-  # Increments a back-end counter and gets its resulting value
-  mutation IncrementCounter {
-    currentValue
-  }
-`;
 
 const SearchBooks = () => {
   // create state for holding returned google api data
